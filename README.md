@@ -77,6 +77,7 @@ The web app was inspired by various calculator designs found online.
 
  # Screenshots
  <br>
+ 
  ![1](https://github.com/iamabir04/Oasis-Level-2-Task-1-Calculator/assets/108453813/9b65278a-16a3-43a7-a59b-4e8d2073b7ca)
  ![2](https://github.com/iamabir04/Oasis-Level-2-Task-1-Calculator/assets/108453813/628a7ebf-66de-4ad8-abc1-998a4fb8d5a9)
  ![3](https://github.com/iamabir04/Oasis-Level-2-Task-1-Calculator/assets/108453813/c270e939-c289-4923-b39d-d70839d38652)
